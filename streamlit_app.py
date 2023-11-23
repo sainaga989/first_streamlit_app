@@ -45,7 +45,7 @@ except URLError as e:
 #prints the output
 
 #dont run anything here 
-streamlit.stop()
+#streamlit.stop()
 #import snowflake.connector
 
 add_my_fruit = streamlit.text_input('what fruit would you like to add?')
