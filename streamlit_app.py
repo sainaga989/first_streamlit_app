@@ -45,7 +45,7 @@ except URLError as e:
 #prints the output
 
 #dont run anything here 
-streamlit.stop()
+#streamlit.stop()
 #import snowflake.connector
 #allow the user to add fruit 
 def insert_row_snowflake(new_fruit):
