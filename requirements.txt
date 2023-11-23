@@ -1,0 +1,2 @@
+#setting snowflake connction
+snowflake-connector-python
